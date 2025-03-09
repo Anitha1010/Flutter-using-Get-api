@@ -1,0 +1,2 @@
+10.0.2.2:8080-> this is a android emulator code
+http://localhost:8080/postapidbb/index.php
